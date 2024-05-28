@@ -1,0 +1,9 @@
+1 - Arrumar efeito boolan na home.==========FEITO=========
+2 - Efeito ao descer scrollview.
+3 - Carousel projetos. ==========FEITO=========
+4 - Adicionar projetos, (modal e etc..).
+5 - Arrumar área de contatos.==========FEITO=========
+6 - Deixar site responsível.==========FEITO=========
+7 - Enviar email.
+8 - Hospedar site.
+9 - Baixar site.
